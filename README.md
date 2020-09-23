@@ -1,5 +1,5 @@
-# -
-主要内容为先锋微信群的内容，如建筑、视觉视觉、电影、读书等。以群内讨论为主，辅助相关资料（取决于我会不会弄这个东西）
+# ↑
+主要内容为先锋微信群的内容，如建筑、视觉设计、电影、读书等。以群内讨论为主，辅助相关资料（取决于我会不会弄这个东西）
 
 Filmism，比较早是李西兹基在1920s提出的，这个定义和达达主义、构成主义一样同等重要。虽然主要成员皆为达达主义的苏黎世达达和苏联先锋派的大师，当时对美国电影工业冲击极大。
 https://mp.weixin.qq.com/s?__biz=MzAxNTMyNjg2OQ==&mid=2650834700&idx=1&sn=6d5965311c7bab2ca4966073088f79f8&chksm=8071ecf6b70665e0a3bbc351fd1131a4c7b245285ea87687fba85435e31f1dd36ed863e00fe4&mpshare=1&scene=1&srcid=0605syodv9XwUaqtIpIA09aM&key=5f319dd54d82fb187c6257f2c36732882410f4e43e1b12531e88ea42e0f38b6c082aa49fa68f8fa0412298751edfbc4dce2eec5794fda8378f58657cd500bf9e9ede6ece1f10c8aac6fcdee1c9c1c338&ascene=1&uin=NTU3MDg5NDU2&devicetype=Windows+7&version=62060739&lang=zh_CN&pass_ticket=o4A5fGNbyjxhb6RAWpl3f1h7I0gUxbwPK4rd9Lx29PTrJ424WUbwngPX2DXCI%2FNu
